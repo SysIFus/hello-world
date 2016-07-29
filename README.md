@@ -1,2 +1,3 @@
 # hello-world
-Testi 3
+Aloitetaan Arete Framework -projekti
+Tehdään sitä varten GitHub -projekti
